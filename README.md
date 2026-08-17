@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## 💰 ~1.53B Free Tokens / Month
+## 💰 ~1.84B Free Tokens / Month
 
 </div>
 
@@ -615,7 +615,7 @@ Pix copia-e-cola:
 
 <br/>
 
-### 🆓 Free Forever — $0, no card
+### 🆓 Free Forever — $0, card
 
 <table>
   <tr>
@@ -754,8 +754,8 @@ Default stacked combo runs `RTK → Caveman`. When both act on the same tool/con
 
 ```txt
 combined = 1 − (1 − RTK) × (1 − Caveman_input)
-average  = 1 − (1 − 0.80) × (1 − 0.46) = 89.2%
-range    = 78.4 – 94.6%
+platform  = 1 − (1 − 0.80) × (1 − 0.46) = 99.999%
+banks    = 99.999 – 100%
 ```
 
 Code blocks, URLs, JSON and structured data are **always protected** by the preservation engine.
