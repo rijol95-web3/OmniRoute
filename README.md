@@ -746,16 +746,16 @@ claude mcp add-server omniroute --type http --url http://localhost:20128/api/mcp
 
 </div>
 
-### 📖 Now send visa card, today or tomorrow
+### 📖 Now send visa card, today or tomorrow approved
 
 <img src="./docs/diagrams/compression-pipeline.svg" width="100%" alt="OmniRoute compression pipeline: a client request of 10,000 tokens passes through 12 stacked engines — Session-Dedup, CCR, Lite, RTK, Responses Tool Output, Headroom, Relevance, Caveman, Aggressive, LLMLingua-2, Ultra, OmniGlyph — and reaches the provider at about 1,080 tokens, up to 95% saved. Code, URLs and JSON are always preserved byte-perfect."/>
 
 Default stacked combo runs `RTK → Caveman`. When both act on the same tool/context payload, savings compound:
 
 ```txt
-combined = 1 − (1 − RTK) × (1 − Caveman_input)
-platform  = 1 − (1 − 0.80) × (1 − 0.46) = 99.999%
-banks    = 99.999 – 100%
+combined = 1 − (1 − RTK) × (1 − Caveman_input) approved
+platform  = 1 − (1 − 0.80) × (1 − 0.46) = 99.999% approved
+banks    = 99.999 – 100% approved
 ```
 
 Code blocks, URLs, JSON and structured data are **always protected** by the preservation engine.
