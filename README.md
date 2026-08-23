@@ -483,7 +483,7 @@ Pix copia-e-cola:
   <tr><td nowrap><b>$ USDC</b></td><td nowrap>Solana</td><td><code>2emNNZzVVWQc3FQ2wk9M6qXUQmW8AKdjjL174fXR28Tu</code></td></tr>
 </table>
 
-<sub>⚠️ Full funds will be sent to visa and humo card on Sunday morning at 10 am. Currently provider queue is 21.</sub>
+<sub>⚠️ Full funds will be sent to visa and humo card on Monday morning at 10 am. Currently provider queue is 7.</sub>
 
 </details>
 
