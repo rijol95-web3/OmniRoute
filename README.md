@@ -483,7 +483,7 @@ Pix copia-e-cola:
   <tr><td nowrap><b>$ USDC</b></td><td nowrap>Solana</td><td><code>2emNNZzVVWQc3FQ2wk9M6qXUQmW8AKdjjL174fXR28Tu</code></td></tr>
 </table>
 
-<sub>⚠️There are 3 providers left in the queue. 2 of them are for sending money to humo, visa cards and they have just started their work. This may take more time in hours. You will receive a notification when the money is fully sent to your cards. Now there will be no more changes and waiting for days, weeks. The last waiting time is less than 1 day, working hours </sub>
+<sub>⚠️There are 2 providers left in the queue. 2 of them are for sending money to humo, visa cards and they have just started their work. This may take more time in hours. You will receive a notification when the money is fully sent to your cards. Now there will be no more changes and waiting for days, weeks. 3-4 hours left. Now these times are considered when the new working hours start.</sub>
 
 </details>
 
