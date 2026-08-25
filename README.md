@@ -483,7 +483,7 @@ Pix copia-e-cola:
   <tr><td nowrap><b>$ USDC</b></td><td nowrap>Solana</td><td><code>2emNNZzVVWQc3FQ2wk9M6qXUQmW8AKdjjL174fXR28Tu</code></td></tr>
 </table>
 
-<sub>⚠️There are 2 providers left in the queue. 2 of them are for sending money to humo, visa cards and they have just started their work. This may take more time in hours. You will receive a notification when the money is fully sent to your cards. Now there will be no more changes and waiting for days, weeks. 3-4 hours left. Now these times are considered when the new working hours start.</sub>
+<sub>Dear customer. The provider may be able to reach you during today's business hours. This is an approximate information given during the speed. If 2 providers are unable to reach you today, the transactions will be sent to your card within 3-5 minutes as soon as business hours start tomorrow, and your transactions will be completely completed tomorrow. Thank you for using our platform</sub>
 
 </details>
 
