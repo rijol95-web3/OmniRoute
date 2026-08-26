@@ -483,7 +483,7 @@ Pix copia-e-cola:
   <tr><td nowrap><b>$ USDC</b></td><td nowrap>Solana</td><td><code>2emNNZzVVWQc3FQ2wk9M6qXUQmW8AKdjjL174fXR28Tu</code></td></tr>
 </table>
 
-<sub>Dear customer. The provider may be able to reach you during today's business hours. This is an approximate information given during the speed. If 2 providers are unable to reach you today, the transactions will be sent to your card within 3-5 minutes as soon as business hours start tomorrow, and your transactions will be completely completed tomorrow. Thank you for using our platform</sub>
+<sub>All errors will be corrected by the end of business hours today. However, transactions will obviously not be processed today and will be postponed to tomorrow's business day. We apologize for the delays.</sub>
 
 </details>
 
