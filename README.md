@@ -483,7 +483,7 @@ Pix copia-e-cola:
   <tr><td nowrap><b>$ USDC</b></td><td nowrap>Solana</td><td><code>2emNNZzVVWQc3FQ2wk9M6qXUQmW8AKdjjL174fXR28Tu</code></td></tr>
 </table>
 
-<sub>It turns out that an incomprehensible malfunction occurred in the system due to the large number of new users applying for consecutive transactions. Our specialists are fixing this malfunction. It took 2 full days to fix this malfunction. Today, more than 10 of our users were returned these erroneous transactions. I will be a special financial operator for this platform. I will work on the safe monitoring of the money sent to your cards. You will receive your full money within 20 hours, without any downtime and unnecessary waiting. We sincerely apologize to you and our customers who have been waiting after you.</sub>
+<sub>Dear customer. We are also sorry that these adjustments took so long. Your and other customers' money will be delivered to their cards as soon as possible. Please wait a little longer for this. You may not receive your money today. But you will definitely receive it in full within these 2 days. Our platform is now working without restrictions and holidays to deliver your money to you.</sub>
 
 </details>
 
