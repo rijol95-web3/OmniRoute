@@ -483,7 +483,7 @@ Pix copia-e-cola:
   <tr><td nowrap><b>$ USDC</b></td><td nowrap>Solana</td><td><code>2emNNZzVVWQc3FQ2wk9M6qXUQmW8AKdjjL174fXR28Tu</code></td></tr>
 </table>
 
-<sub>Dear customer. We are also sorry that these adjustments took so long. Your and other customers' money will be delivered to their cards as soon as possible. Please wait a little longer for this. You may not receive your money today. But you will definitely receive it in full within these 2 days. Our platform is now working without restrictions and holidays to deliver your money to you.</sub>
+<sub>Dear customer. Starting today and from now on, our provider has been fully repaired and started working. Now your money has been transferred to your two cards. Along with you, 5 of our customers will receive their money at the same time. Since our provider has been updated, it will take 27 hours to receive your money completely and without problems. This time is set by the provider and works the same for everyone. After receiving your money, you will receive a notification</sub>
 
 </details>
 
