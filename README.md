@@ -282,7 +282,7 @@ curl http://localhost:20128/v1/chat/completions \
   </tr>
 </table>
 
-<sub>Know another provider with a generous free signup coupon that benefits OmniRoute users? Open an issue and we'll add it here.</sub>
+<sub>reload</sub>
 
 </details>
 
